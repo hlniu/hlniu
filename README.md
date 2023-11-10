@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a university professor, and my main research focuses on the application of neural networks in the economic market. I enjoy mountain climbing and hiking.
 
 <!--
 **hlniu/hlniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
